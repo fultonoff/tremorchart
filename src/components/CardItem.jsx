@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BadgeDelta, Card, Flex, Metric, Text } from "@tremor/react";
 
 export const CardItem = () => {
